@@ -5,4 +5,4 @@
 
 ##### A fun rpg that can be run in the console after you run node inquirer. Simply run the command node app to begin
 
-<img class="images\jest-another-rpg-screenshot.jpg" src="Screenshot of jest another rpg">
+<img src="images\jest-another-rpg-screenshot.jpg" alt="Screenshot of project">
